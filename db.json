@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "ajaynarngaali@gmail.com",
+      "password": "12345",
+      "profile": ""
+    }
+  ],
+  "employees": [
+    {
+      "id": "1",
+      "username": "Ajay N ",
+      "email": "ajaynarngaali@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "2",
+      "username": "steve",
+      "email": "steve@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "3",
+      "username": "elon",
+      "email": "elon@gmail.com",
+      "status": "active"
+    }
+  ]
+}
